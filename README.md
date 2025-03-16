@@ -1,4 +1,4 @@
-[https://github.com/hrrajon/Blinkit-Sales-Dashboard---Power-BI-Project/blob/main/Blinkit%20Dashboard.jpg]
+![Dashboard Preview](https://github.com/hrrajon/Blinkit-Sales-Dashboard---Power-BI-Project/blob/main/Blinkit%20Dashboard.jpg)
 
 Blinkit Sales Dashboard - Power BI Project
 
@@ -62,13 +62,6 @@ Slicers & Filters: Allow users to explore data dynamically based on different pa
 🔹 Expand in Tier 3 locations due to high revenue potential.
 🔹 Analyze post-2018 outlet decline for better business strategy.
 🔹 Introduce promotions for low-selling categories (Seafood, Breakfast, Starchy Foods).
-
-📂 File Structure
-
-├── Blinkit_Dashboard.pbix  # Power BI file
-├── README.md               # Project documentation
-├── Data/                   # Folder containing raw and processed datasets
-└── Images/                 # Screenshots of the dashboard
 
 📢 Conclusion
 
